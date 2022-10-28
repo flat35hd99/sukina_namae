@@ -1,6 +1,6 @@
 #!/bin/bash
 
-prefix=$TEMPLATE_PROJECT_PREFIX
+prefix=$PREFIX_HOGEHOGE
 run_start=$1
 run_end=$2
 
